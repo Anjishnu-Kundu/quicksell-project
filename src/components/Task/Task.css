@@ -1,0 +1,23 @@
+.task {
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #e9f7ff;
+  }
+  .task h3 {
+    margin: 0;
+    color: #007bff;
+  }
+  .tags {
+    margin-top: 5px;
+  }
+  .tag {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 3px 5px;
+    border-radius: 3px;
+    margin-right: 5px;
+  }
+  

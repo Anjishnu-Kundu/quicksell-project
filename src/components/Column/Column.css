@@ -1,0 +1,13 @@
+.column {
+    flex: 1;
+    margin: 0 10px;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  .column h2 {
+    text-align: center;
+    color: #333;
+  }
+  
